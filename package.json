@@ -19,6 +19,8 @@
     "@angular/platform-browser-dynamic": "~12.2.0",
     "@angular/router": "~12.2.0",
     "@types/three": "^0.140.0",
+    "gsap": "^3.10.4",
+    "lil-gui": "^0.16.1",
     "rxjs": "~6.6.0",
     "three": "^0.140.0",
     "tslib": "^2.3.0",
